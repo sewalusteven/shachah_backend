@@ -68,3 +68,10 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+*****************
+Configuration of Shachah Backend
+******************
+Adjust the DB credentials from application/config direcoty
+
